@@ -64,3 +64,41 @@ header {
 .border-top-red {
     border-top: 6px solid #8c2521;
 }
+
+.bg-modal-container {
+    background-color: #52100e!important;
+}
+
+.border-modal-container {
+    border: 2px solid #8c2521!important;
+}
+
+.text-justify {
+    text-align: justify;
+}
+
+@font-face {
+    font-family: moneyGta;
+    src: url('pricedown bl.ttf')format('opentype');
+}
+
+.text-money {
+    font-family: moneyGta;
+    color: white;
+    text-shadow: #000 3px 0 10px;
+    font-size: 25px;
+}
+
+.button-red-white {
+    background-color: #8c2521!important;
+    border: none!important;
+    border-radius: 5px!important;
+    color: white!important;
+}
+
+
+
+.bg-border-modal-buy-make {
+    border: 2px solid #8c2521!important;
+    background-color: #52100e!important;
+}
